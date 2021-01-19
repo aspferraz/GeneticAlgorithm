@@ -1,3 +1,3 @@
 # GeneticAlgorithm
 
-Basic implementation of a genetic algorithm in Python.
+Basic implementation of a Genetic algorithm in Python.
